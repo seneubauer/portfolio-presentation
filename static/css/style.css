@@ -1,0 +1,8 @@
+body {
+    background-color: gray;
+}
+
+.carousel-caption {
+    background-color: black;
+    opacity: 75%;
+}
